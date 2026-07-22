@@ -1,0 +1,22 @@
+# Never commit secrets or generated evidence containing secrets
+*.wallet
+*.p12
+*.pfx
+*.pem
+*.key
+*.jks
+*.sso
+*.log
+.env
+.env.*
+secrets/
+tokens/
+
+# Local editor files
+.vscode/
+.idea/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
