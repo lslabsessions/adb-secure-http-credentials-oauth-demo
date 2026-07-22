@@ -1,0 +1,38 @@
+[
+    {
+        "type": "iss",
+        "value": "https://demo.duendesoftware.com"
+    },
+    {
+        "type": "nbf",
+        "value": "1784751466"
+    },
+    {
+        "type": "iat",
+        "value": "1784751466"
+    },
+    {
+        "type": "exp",
+        "value": "1784755066"
+    },
+    {
+        "type": "aud",
+        "value": "api"
+    },
+    {
+        "type": "scope",
+        "value": "api"
+    },
+    {
+        "type": "client_id",
+        "value": "m2m"
+    },
+    {
+        "type": "jti",
+        "value": "2FB58D8469CD067643FE12566D1751B4"
+    },
+    {
+        "type": "authorization_scheme",
+        "value": "Bearer"
+    }
+]
