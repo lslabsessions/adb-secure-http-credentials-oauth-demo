@@ -271,7 +271,7 @@ Run as the application schema:
 
 ```text
 sql/100_create_oauth_credentials.sql
-sql/105_create_token_cache.sql
+sql/105_oauth_token_cache.sql
 sql/110_get_bearer_credential.sql
 sql/115_run_oauth_client_credentials_demo.sql
 sql/120_show_token_cache.sql
