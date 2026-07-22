@@ -337,7 +337,7 @@ The cleanup script removes the demo credentials, token cache table, and function
 
 - [Call Web Services from Autonomous AI Database](https://docs.oracle.com/en/cloud/paas/autonomous-database/serverless/adbsb/call-web-services.html)
 - [`UTL_HTTP` — Oracle AI Database PL/SQL Packages and Types Reference](https://docs.oracle.com/en/database/oracle/oracle-database/26/arpls/UTL_HTTP.html)
-- [`DBMS_CLOUD` — Oracle AI Database PL/SQL Packages and Types Reference](https://docs.oracle.com/en/database/oracle/oracle-database/26/arpls/DBMS_CLOUD.html)
+- [`DBMS_CLOUD` — Oracle AI Database PL/SQL Packages and Types Reference](https://docs.oracle.com/en/database/oracle/oracle-database/26/arpls/dbms_cloud.html)
 - [`DBMS_NETWORK_ACL_ADMIN` — Oracle AI Database PL/SQL Packages and Types Reference](https://docs.oracle.com/en/database/oracle/oracle-database/26/arpls/DBMS_NETWORK_ACL_ADMIN.html)
 
 ### Test services
